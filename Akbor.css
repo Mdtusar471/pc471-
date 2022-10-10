@@ -1,0 +1,15 @@
+body{
+  margin:0;
+  padding:0;
+  background-color: black ;
+}
+h1{
+  text-align: center;
+  background-color: red;
+  color:#ffffff;
+}
+p{
+  text-align: center;
+  background-color:#DF6D6D;
+  color:#ffffff;
+}
